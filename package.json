@@ -1,0 +1,21 @@
+{
+  "name": "hello-world-api",
+  "version": "1.0.0",
+  "description": "A RESTful API for multilingual hello world greetings",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["api", "express", "restful", "node"],
+  "author": "Student",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

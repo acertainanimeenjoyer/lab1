@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "language": "Spanish",
+    "greeting": "¡Hola Mundo!",
+    "formal": true
+  },
+  {
+    "id": 3,
+    "language": "French",
+    "greeting": "Bonjour le Monde!",
+    "formal": true
+  },
+  {
+    "id": 4,
+    "language": "Japanese",
+    "greeting": "こんにちは",
+    "formal": false
+  },
+  {
+    "id": 5,
+    "language": "Elvish",
+    "greeting": "Elen síla lúmenn’ omentielvo",
+    "formal": true
+  }
+]
